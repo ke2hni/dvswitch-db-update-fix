@@ -114,7 +114,7 @@ https://api.tgif.network/dmr/talkgroups/csv
 ## 1️⃣ Download the Repository
 
 ```bash
-git clone https://github.com/ke2hni/DVSwitch-DB-Update-Source-Fix.git
+git clone https://github.com/ke2hni/dvswitch-db-update-fix.git
 ```
 
 ---
@@ -122,7 +122,7 @@ git clone https://github.com/ke2hni/DVSwitch-DB-Update-Source-Fix.git
 ## 2️⃣ Enter the Folder
 
 ```bash
-cd DVSwitch-DB-Update-Source-Fix
+cd dvswitch-db-update-fix
 ```
 
 ---
@@ -130,7 +130,7 @@ cd DVSwitch-DB-Update-Source-Fix
 ## 3️⃣ Make the Script Executable
 
 ```bash
-chmod +x dvswitch-db-update-source-fix.sh
+chmod +x dvswitch-db-update-fix.sh
 ```
 
 ---
@@ -138,7 +138,7 @@ chmod +x dvswitch-db-update-source-fix.sh
 ## 4️⃣ Run the Script
 
 ```bash
-sudo ./dvswitch-db-update-source-fix.sh
+sudo ./dvswitch-db-update-fix.sh
 ```
 
 ---
@@ -250,7 +250,7 @@ This patch affects database downloads used by:
 To restore the untouched original:
 
 ```bash
-sudo ./dvswitch-db-update-source-fix.sh
+sudo ./dvswitch-db-update-fix.sh
 ```
 
 Choose:
